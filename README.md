@@ -1,0 +1,2 @@
+# Django_CRUD_function_View_2ndProject
+Django_CRUD_function_View_2ndProject
